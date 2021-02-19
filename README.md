@@ -1,7 +1,6 @@
 # Mixed_Messages
 This is a project for codecademy
-asd
-asd
-asd
-asd
 
+Input either cat or dog, return random joke based on animal, else return random joke about either.
+
+const args = process.argv.slice(2)
